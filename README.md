@@ -1,4 +1,4 @@
-- Hi, I’m @SunnyAnd70 -- Because when it's sunny and 70F I'm happy!
+- Hey World! I’m @SunnyAnd70 -- Because when it's sunny and 70F I'm happy!
 - I've been programming for 30+ years from Apple II BASIC to Pascal to C to Java...<br>
   C++ just isn't my thing.
 
